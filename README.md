@@ -35,8 +35,7 @@ These were the user stories we had in mind when making this game:
 4. Use good OO design patterns. You should have separate models for your runner and CLI interface.
 5. Practice Paired Programming and Github Collaboration Best-Practices
 
+
 Contributors:
-
 Edwin Lin - github.com/edwinlin
-
 Raymond Chow - github.com/rchowdev
