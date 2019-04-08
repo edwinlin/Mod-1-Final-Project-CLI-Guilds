@@ -38,4 +38,5 @@ These were the user stories we had in mind when making this game:
 
 # Contributors:
 Edwin Lin - github.com/edwinlin
+
 Raymond Chow - github.com/rchowdev
