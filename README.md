@@ -36,6 +36,6 @@ These were the user stories we had in mind when making this game:
 5. Practice Paired Programming and Github Collaboration Best-Practices
 
 
-Contributors:
+# Contributors:
 Edwin Lin - github.com/edwinlin
 Raymond Chow - github.com/rchowdev
